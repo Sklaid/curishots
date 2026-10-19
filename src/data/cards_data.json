@@ -1,0 +1,1335 @@
+{
+  "cards": [
+    {
+      "level": "PICANTE",
+      "text": "SIÉNTATE ENCIMA DE LA PERSONA QUE MÁS TE ATRAIGA DURANTE UNA RONDA",
+      "drinks": 5,
+      "category": "intimidad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "PONTE UN HIELO EN LA BOCA Y PÁSASELO AL JUGADOR DE TU IZQUIERDA DE BOCA A BOCA DURANTE 10 SEGUNDOS",
+      "drinks": 10,
+      "category": "desafio"
+    },
+    {
+      "level": "PICANTE",
+      "text": "DA UN BESO DURANTE 4 SEGUNDOS CON LA PERSONA QUE ELIJAN",
+      "drinks": 6,
+      "category": "intimidad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "SUSÚRRAS UNA FANTASÍA ÍNTIMA AL OÍDO DE ALGUIEN",
+      "drinks": 5,
+      "category": "preguntas"
+    },
+    {
+      "level": "PICANTE",
+      "text": "COLOCA TU BEBIDA ENTRE LOS PIERNAS DE ALGUIEN Y ÉL/A BEBE UN TRAGO",
+      "drinks": 1,
+      "category": "atrevido"
+    },
+    {
+      "level": "PICANTE",
+      "text": "SIÉNTATE ENCIMA DE LA PERSONA QUE MÁS TE ATRAIGA DURANTE UNA RONDA",
+      "drinks": 5,
+      "category": "intimidad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "EL GRUPO ELIJE UNA PERSONA PARA UN DUETO DE BESOS EN CÁMARA LENTA DURANTE 7S",
+      "drinks": 3,
+      "category": "intimidad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "JUEGA A 'POKÉMON': NOMBRA 5 POSIBLES POSICIONES SEXUALES",
+      "drinks": 3,
+      "category": "juego"
+    },
+    {
+      "level": "PICANTE",
+      "text": "IMITA UN ENCUENTRO ÍNTIMO (ACTOR/ACTRIZ) EN 10 SEGUNDOS",
+      "drinks": 6,
+      "category": "creatividad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "BAJALE LOS PANTALONES A UN JUGADOR AL RITMO DE UNA CANCIÓN SEXY",
+      "drinks": 4,
+      "category": "atrevimiento"
+    },
+    {
+      "level": "PICANTE",
+      "text": "HAZ UN SHOT DE LICOR DESDE LA BOCA DE LA PERSONA QUE ELIJAN LOS DEMÁS",
+      "drinks": 4,
+      "category": "desafio"
+    },
+    {
+      "level": "PICANTE",
+      "text": "DA UN BESO EN EL CUELLO DE TRES JUGADORES DISTINTOS",
+      "drinks": 4,
+      "category": "intimidad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "DA UN BESO EN EL CUELLO A UN JUGADOR QUE ELIJAN LOS DEMÁS",
+      "drinks": 2,
+      "category": "intimidad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "SÉ TU MISMO, HAZ UN MINI SHOW ERÓTICO DE 8S",
+      "drinks": 4,
+      "category": "creatividad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "COLÓCALE VENDAS A LOS OJOS A ALGUIEN QUE ELIJAN LOS DEMÁS Y BÉSALO DONDE QUIERAS",
+      "drinks": 4,
+      "category": "juego"
+    },
+    {
+      "level": "PICANTE",
+      "text": "BESA A DOS PERSONAS DISTINTAS A LA VEZ",
+      "drinks": 4,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "NO LEAS ESTA CARTA EN VOZ ALTA. REPARTE DISCRETAMENTE 5 TRAGOS",
+      "drinks": 5,
+      "category": "secreto"
+    },
+    {
+      "level": "ROJA",
+      "text": "CASCADA: TODOS LOS JUGADORES EMPIEZAN A BEBER. PUEDES DEJAR DE BEBER CUANDO QUIERAS Y EL RESTO SOLO PUEDEN PARAR CUANDO PARE EL DE SU DERECHA",
+      "drinks": 3,
+      "category": "juego"
+    },
+    {
+      "level": "ROJA",
+      "text": "TODOS LOS JUGADORES TE DAN UN BESO EN CUALQUIER PARTE DE LA CARA",
+      "drinks": 1,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "ELIGE UN COMPAÑERO DE BEBIDA. CADA VEZ QUE UNO BEBA, EL OTRO TAMBIÉN DEBE BEBER",
+      "drinks": 2,
+      "category": "social"
+    },
+    {
+      "level": "ROJA",
+      "text": "VETE 3 MINUTOS AL PARAÍSO CON LA PERSONA QUE TÚ ELIJAS",
+      "drinks": 0,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "MUERDE EL LÓBULO DE LA OREJA DURANTE 5 SEGUNDOS A LA PERSONA QUE ELIJAS",
+      "drinks": 1,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "DA 3 NALGADAS A LA PERSONA QUE MÁS TE GUSTE DEL GRUPO",
+      "drinks": 0,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "CHICAS VS CHICOS: QUE CADA GRUPO DIGA UNA POSICIÓN SEXUAL. EL GRUPO QUE SE QUEDE SIN IDEAS",
+      "drinks": 3,
+      "category": "juego"
+    },
+    {
+      "level": "ROJA",
+      "text": "DILE A LA PERSONA DE TU DERECHA ALGO PERVERTIDO AL OÍDO",
+      "drinks": 0,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "ELIGE A ALGUIEN PARA QUE SE QUITE UNA PRENDA DE ROPA",
+      "drinks": 5,
+      "category": "desafio"
+    },
+    {
+      "level": "ROJA",
+      "text": "HAZ UNA PREGUNTA ÍNTIMA A CADA JUGADOR. SI NO RESPONDEN",
+      "drinks": 2,
+      "category": "preguntas"
+    },
+    {
+      "level": "ROJA",
+      "text": "TIENES 30 SEGUNDOS PARA TOCAR A TODOS LOS JUGADORES. SI NO LO CONSIGUES",
+      "drinks": 4,
+      "category": "desafio"
+    },
+    {
+      "level": "ROJA",
+      "text": "DURANTE 3 RONDAS, CADA VEZ QUE ALGUIEN DIGA TU NOMBRE TÚ BEBES UN TRAGO",
+      "drinks": 1,
+      "category": "regla_continua"
+    },
+    {
+      "level": "ROJA",
+      "text": "BUSCA EL OBJETO MÁS RARO DE LA CASA Y ÚSALO DE FORMA CREATIVA",
+      "drinks": 3,
+      "category": "creatividad"
+    },
+    {
+      "level": "ROJA",
+      "text": "IMITA A CADA JUGADOR DURANTE 10 SEGUNDOS. SI NO ADIVINAN A QUIÉN IMITAS",
+      "drinks": 2,
+      "category": "imitacion"
+    },
+    {
+      "level": "ROJA",
+      "text": "DESCRIBE TU POSICIÓN FAVORITA EN DETALLE",
+      "drinks": 2,
+      "category": "preguntas"
+    },
+    {
+      "level": "ROJA",
+      "text": "CAMBIAR",
+      "drinks": 1,
+      "category": "intimidad",
+      "effect": "all_drink"
+    },
+    {
+      "level": "ROJA",
+      "text": "MUERDE EL LÓBULO DE LA OREJA DE ALGUIEN DURANTE 3S",
+      "drinks": 1,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "DA 3 NALGADAS A UNA PERSONA QUE EL GRUPO ESCOJA",
+      "drinks": 3,
+      "category": "atrevimiento"
+    },
+    {
+      "level": "ROJA",
+      "text": "CHICAS VS CHICOS: DICE POSICIONES SEXUALES; QUE PIERDA",
+      "drinks": 3,
+      "category": "juego",
+      "effect": "team_challenge"
+    },
+    {
+      "level": "ROJA",
+      "text": "TIENES 6S PARA TOCAR A TODOS; SI NO",
+      "drinks": 3,
+      "category": "desafio"
+    },
+    {
+      "level": "ROJA",
+      "text": "INTERCAMBIO DE BESO EN LA MEJILLA 4 VECES CON LA PERSONA QUE EL GRUPO ELIJA",
+      "drinks": 3,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "DESAFÍA A ALGUIEN A CONTAR SU FANTASÍA; SI NO QUIERE",
+      "drinks": 3,
+      "category": "preguntas"
+    },
+    {
+      "level": "ROJA",
+      "text": "REALIZA UN POEMA ERÓTICO DE 4 LÍNEAS",
+      "drinks": 2,
+      "category": "creatividad"
+    },
+    {
+      "level": "ROJA",
+      "text": "INVITA A ALGUIEN A UN BAILE PEGADO DE 10S",
+      "drinks": 3,
+      "category": "juego"
+    },
+    {
+      "level": "ROJA",
+      "text": "DIBUJA UN CORAZÓN EN LA PIEL DE ALGUIEN CON LA BOCA",
+      "drinks": 4,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "HAZ UNA PREGUNTA ÍNTIMA A CADA UNO; SI NO RESPONDEN",
+      "drinks": 2,
+      "category": "preguntas",
+      "effect": "all_drink"
+    },
+    {
+      "level": "ROJA",
+      "text": "ELIGE A LA PERSONA CON LA QUE TOME UN CHUPITO CONTIGO Y OS DAIS UN PICO",
+      "drinks": 2,
+      "category": "intimidad"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "SI ESTÁS JUGANDO, BEBES",
+      "drinks": 1,
+      "category": "clasica"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "TOMA UN SHOT CON LA PERSONA QUE ELIJAS",
+      "drinks": 3,
+      "category": "eleccion"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "LOS JUGADORES QUE HAYAN PUESTO LOS CUERNOS ALGUNA VEZ",
+      "drinks": 3,
+      "category": "preguntas"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "EL JUGADOR QUE CONOZCA MEJOR LA MÚSICA ACTUAL",
+      "drinks": 2,
+      "category": "general"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "BEBEN TODOS LOS QUE LLEVEN ALGO AZUL",
+      "drinks": 0,
+      "category": "personal"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CUENTA UNA ANÉCDOTA VERGONZOSA",
+      "drinks": 3,
+      "category": "general"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "DI UN TRABALENGUAS",
+      "drinks": 2,
+      "category": "general"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "IMITA A UN ANIMAL DURANTE 30 SEGUNDOS",
+      "drinks": 2,
+      "category": "imitacion"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CANTA UNA CANCIÓN DURANTE 30 SEGUNDOS",
+      "drinks": 3,
+      "category": "juego"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "HAZ 10 FLEXIONES",
+      "drinks": 4,
+      "category": "desafio"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "BAILA DURANTE 1 MINUTO SIN MÚSICA",
+      "drinks": 3,
+      "category": "juego"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "DI 5 NOMBRES QUE EMPIECEN POR LA LETRA QUE ELIJA EL GRUPO EN 10 SEGUNDOS",
+      "drinks": 2,
+      "category": "rapidez_mental"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "HABLA DURANTE UNA RONDA COMPLETA CON ACENTO EXTRANJERO",
+      "drinks": 2,
+      "category": "creatividad"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "TODOS LOS ZURDOS",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "EL QUE TENGA EL CUMPLEAÑOS MÁS CERCANO",
+      "drinks": 2,
+      "category": "fecha"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "INTERCAMBIA LA ROPA CON ALGUIEN DEL SEXO OPUESTO DURANTE 3 RONDAS",
+      "drinks": 4,
+      "category": "desafio"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "TODOS LOS QUE TENGAN MENOS DE 23 AÑOS",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "HAZ UNA LLAMADA A TU EX",
+      "drinks": 5,
+      "category": "desafio"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CUENTA UN CHISTE. SI NADIE SE RÍE",
+      "drinks": 3,
+      "category": "general"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "DI LA TABLA DE MULTIPLICAR DEL 7 HASTA EL 70",
+      "drinks": 4,
+      "category": "matematicas"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "TODOS LOS QUE TENGAN TATUAJES",
+      "drinks": 2,
+      "category": "personal"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "EL ÚLTIMO EN TOCAR EL SUELO",
+      "drinks": 2,
+      "category": "desafio"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "SUSURRA UN SECRETO AL OÍDO DE LA PERSONA DE TU DERECHA",
+      "drinks": 3,
+      "category": "intimidad"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "TODOS LOS QUE LLEVEN ZAPATILLAS",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "HAZ LA POSICIÓN DEL PERRO DURANTE 30 SEGUNDOS",
+      "drinks": 2,
+      "category": "desafio"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "4 RONDAS DEL JUEGO 'VIKINGOS'",
+      "drinks": 0,
+      "category": "juego"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "4 RONDAS DEL JUEGO 'LIMONES'",
+      "drinks": 0,
+      "category": "juego"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "REPARTE 4 TRAGOS COMO QUIERAS ENTRE LOS JUGADORES",
+      "drinks": 4,
+      "category": "repartir"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "DI 3 VERDADES Y 1 MENTIRA. SI ADIVINAN LA MENTIRA, BEBES 2 TRAGOS",
+      "drinks": 0,
+      "category": "juego"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "TODOS LOS SOLTEROS",
+      "drinks": 2,
+      "category": "personal"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "IMITA A UNA PERSONA FAMOSA HASTA QUE ALGUIEN ADIVINE QUIÉN ES",
+      "drinks": 3,
+      "category": "imitacion"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "EL PRIMERO EN DECIR 'PINEAPPLE'",
+      "drinks": 3,
+      "category": "desafio"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "SI NO TUVISTE RELACIONES EN LOS ÚLTIMOS 15D",
+      "drinks": 2,
+      "category": "preguntas"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "FINGE UN ORGASMO",
+      "drinks": 2,
+      "category": "creatividad"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "HAZ UN MINI TATTOO EN LA PIEL DE ALGUIEN CON UN BOLÍGRAFO",
+      "drinks": 10,
+      "category": "creatividad"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "IMITA A CADA JUGADOR DURANTE 10 SEGUNDOS. SI NO ADIVINAN A QUIÉN IMITAS, BEBES 2 TRAGOS",
+      "drinks": 2,
+      "category": "imitacion"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "ELIGE A ALGUIEN PARA QUE SE QUITE UNA PRENDA",
+      "drinks": 1,
+      "category": "atrevimiento"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "DILE AL DE TU DERECHA ALGO PERVERTIDO AL OÍDO",
+      "drinks": 1,
+      "category": "intimidad"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "SUSÚRRALE AL OÍDO A ALGUIEN TU FANTASÍA MÁS PICANTE",
+      "drinks": 2,
+      "category": "preguntas"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "BUSCA EL OBJETO MÁS RARO DE LA CASA Y ÚSALO DE FORMA CREATIVA",
+      "drinks": 2,
+      "category": "creatividad"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CARRERA DE TRAGOS: 3 BEBIDAS LO MÁS RÁPIDO POSIBLE; PIERDE",
+      "drinks": 2,
+      "category": "juego",
+      "effect": "team_challenge"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CARRERA DE MIRADAS: EL ÚLTIMO EN DESVIARLA",
+      "drinks": 2,
+      "category": "juego"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "HAZ UNA RUEDA DE CONFESIONES: CADA UNO CUENTA UN SECRETO, QUIEN NO QUIERA",
+      "drinks": 2,
+      "category": "preguntas",
+      "effect": "all_drink"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "SI DICES LA PALABRA PROHIBIDA (ESCOGE UNA) DURANTE EL RESTO DE LA NOCHE, TOMA 1 TRAGO",
+      "drinks": 0,
+      "category": "regla_continua"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "INTERCAMBIA VASOS CON ALGUIEN Y BEBE LO QUE QUEDA EN EL SUYO",
+      "drinks": 0,
+      "category": "social"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "DA 10 VUELTAS CON LOS OJOS CERRADOS Y BEBE TODO TU TRAGO",
+      "drinks": 0,
+      "category": "desafio"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "EL JUGADOR A TU IZQUIERDA TE HACE UN PIROPO; SI NO TE GUSTA",
+      "drinks": 1,
+      "category": "social"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "HAZ UN SHOT CON EL TRAGO QUE DECIDA LA PERSONA DE TU DERECHA",
+      "drinks": 1,
+      "category": "social"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CANTA UNA ADAPTACIÓN PICANTE DE UNA CANCIÓN INFANTIL",
+      "drinks": 2,
+      "category": "creatividad"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "INTERCAMBIA UN CONFESIÓN ÍNTIMA POR UN TRAGO EXTRA",
+      "drinks": 1,
+      "category": "preguntas"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CUBRE LOS OJOS A LA PERSONA QUE ESTÁ AL FRENTE TUYO, SÍRVELE UN SHOT DE TRAGO Y TIENE QUE ADIVINAR CUÁL ES; SI PIERDE",
+      "drinks": 2,
+      "category": "juego"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CASCADA: TODOS BEBEN; TÚ PARAS CUANDO QUIERAS, LOS DEMÁS, CUANDO PARE TU VECINO DERECHO",
+      "drinks": 1,
+      "category": "social",
+      "effect": "cascade"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "SE EL 'SIRVIENTE' DE LA PERSONA DE TU IZQUIERDA POR 4 RONDAS",
+      "drinks": 0,
+      "category": "creatividad",
+      "effect": "role_play"
+    },
+    {
+      "level": "VERDE",
+      "text": "DURANTE 4 RONDAS: HAZ EL SONIDO DE UN ANIMAL (DIFERENTE) CADA VEZ QUE TOMES",
+      "drinks": 0,
+      "category": "imitacion"
+    },
+    {
+      "level": "VERDE",
+      "text": "MANTÉN LA MIRADA DE ALGUIEN",
+      "drinks": 2,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "EL ÚLTIMO EN TOCAR EL SUELO",
+      "drinks": 2,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "HACED UN DUETO DE BESOS EN CÁMARA LENTA DURANTE 5 SEGUNDOS",
+      "drinks": 2,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "INTERCAMBIA UNA PRENDA DURANTE 2 RONDAS",
+      "drinks": 1,
+      "category": "atrevimiento"
+    },
+    {
+      "level": "VERDE",
+      "text": "LA ÚLTIMA PERSONA QUE SE LEVANTE",
+      "drinks": 2,
+      "category": "desafio"
+    },
+    {
+      "level": "VERDE",
+      "text": "CON LA PERSONA DE TU DERECHA DEBEN ACTUAR COMO SI RECIÉN FUERAN A CONOCERSE DURANTE 3 RONDAS",
+      "drinks": 0,
+      "category": "creatividad"
+    },
+    {
+      "level": "VERDE",
+      "text": "NO LEAS ESTA CARTA EN VOZ ALTA. REPARTE DISCRETAMENTE 3 TRAGOS",
+      "drinks": 3,
+      "category": "secreto"
+    },
+    {
+      "level": "VERDE",
+      "text": "3 RONDAS: CADA VEZ QUE DIGAN TU NOMBRE, BEBE UN TRAGO",
+      "drinks": 1,
+      "category": "regla_continua"
+    },
+    {
+      "level": "VERDE",
+      "text": "PON UNA CANCIÓN Y PÁRALA CUANDO QUIERAS. SI NO CONTINUAS LA LETRA, BEBE 2 TRAGOS",
+      "drinks": 2,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "EL QUE MENOS HAYA BAILADO EN ESTA FIESTA",
+      "drinks": 2,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "DURANTE 3 RONDAS: CADA VEZ QUE ALGUIEN DIGA TU NOMBRE, BEBE UN TRAGO",
+      "drinks": 2,
+      "category": "social"
+    },
+    {
+      "level": "VERDE",
+      "text": "HAZ 5 SENTADILLAS SÚPER LENTA",
+      "drinks": 2,
+      "category": "desafio"
+    },
+    {
+      "level": "VERDE",
+      "text": "QUE LEVANTE LA MANO QUIEN HAYA TENIDO MÁS DE 5 PAREJAS SEXUALES",
+      "drinks": 1,
+      "category": "preguntas"
+    },
+    {
+      "level": "VERDE",
+      "text": "QUE LEVANTE LA MANO QUIEN HAYA TENIDO MÁS DE 5 PAREJAS SEXUALES",
+      "drinks": 2,
+      "category": "preguntas"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE TENGAN HERMANOS",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI ERES EL MÁS ALTO DEL GRUPO",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE LLEVEN GAFAS",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE TENGAN EL PELO LARGO",
+      "drinks": 1,
+      "category": "apariencia"
+    },
+    {
+      "level": "VERDE",
+      "text": "SI HAS IDO AL GIMNASIO ESTA SEMANA",
+      "drinks": 1,
+      "category": "actividad"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE SEPAN TOCAR UN INSTRUMENTO",
+      "drinks": 1,
+      "category": "general"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE TENGAN MASCOTA",
+      "drinks": 1,
+      "category": "mascota"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI ERES HIJO ÚNICO",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE HAYAN VIAJADO AL EXTRANJERO ESTE AÑO",
+      "drinks": 1,
+      "category": "viajes"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE TENGAN INSTAGRAM",
+      "drinks": 1,
+      "category": "redes_sociales"
+    },
+    {
+      "level": "VERDE",
+      "text": "SI SABES COCINAR PAELLA",
+      "drinks": 1,
+      "category": "cocina"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE HAYAN VISTO NETFLIX HOY",
+      "drinks": 1,
+      "category": "entretenimiento"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI HAS LLEGADO TARDE HOY",
+      "drinks": 1,
+      "category": "puntualidad"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE TENGAN IPHONE",
+      "drinks": 1,
+      "category": "tecnologia"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE SEPAN CONDUCIR MANUAL",
+      "drinks": 1,
+      "category": "general"
+    },
+    {
+      "level": "VERDE",
+      "text": "SI HAS COMIDO PIZZA ESTA SEMANA",
+      "drinks": 1,
+      "category": "comida"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE DUERMAN MENOS DE 7 HORAS AL DÍA",
+      "drinks": 1,
+      "category": "habitos"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE TENGAN MÁS DE 1000 FOTOS EN EL MÓVIL",
+      "drinks": 1,
+      "category": "tecnologia"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI PREFIERES LA PLAYA A LA MONTAÑA",
+      "drinks": 1,
+      "category": "preferencias"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE SEPAN NADAR BEBEN",
+      "drinks": 0,
+      "category": "general"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE HAYAN LLORADO VIENDO UNA PELÍCULA ESTE MES",
+      "drinks": 1,
+      "category": "emociones"
+    },
+    {
+      "level": "VERDE",
+      "text": "SI HABLAS MÁS DE 2 IDIOMAS",
+      "drinks": 1,
+      "category": "idiomas"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE TENGAN CUENTA EN TIKTOK",
+      "drinks": 1,
+      "category": "redes_sociales"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI HAS ENVIADO UN MENSAJE HOY ANTES DE LAS 8 AM",
+      "drinks": 0,
+      "category": "comunicacion"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBEN TODOS LOS QUE PREFIERAN EL CAFÉ AL TÉ",
+      "drinks": 0,
+      "category": "bebidas"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE HAYAN HECHO EJERCICIO ESTA SEMANA",
+      "drinks": 1,
+      "category": "desafio"
+    },
+    {
+      "level": "VERDE",
+      "text": "SI TIENES MÁS DE 500 CONTACTOS EN EL MÓVIL",
+      "drinks": 1,
+      "category": "social"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE SEPAN BAILAR SALSA",
+      "drinks": 1,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE HAYAN ESTUDIADO EN EL EXTRANJERO",
+      "drinks": 1,
+      "category": "educacion"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI HAS PERDIDO ALGO IMPORTANTE ESTE MES",
+      "drinks": 1,
+      "category": "experiencia"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBEN TODOS LOS QUE TENGAN NETFLIX",
+      "drinks": 0,
+      "category": "entretenimiento"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE PREFIERAN EL INVIERNO AL VERANO",
+      "drinks": 1,
+      "category": "estaciones"
+    },
+    {
+      "level": "VERDE",
+      "text": "SI HAS COMPRADO ALGO ONLINE ESTA SEMANA",
+      "drinks": 1,
+      "category": "compras"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE SEPAN JUGAR AJEDREZ",
+      "drinks": 1,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE HAYAN USADO TRANSPORTE PÚBLICO HOY",
+      "drinks": 1,
+      "category": "transporte"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI PREFIERES LOS PERROS A LOS GATOS",
+      "drinks": 0,
+      "category": "mascota"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE TENGAN MÁS DE 23 AÑOS",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE HAYAN COMIDO COMIDA RÁPIDA ESTA SEMANA",
+      "drinks": 1,
+      "category": "comida"
+    },
+    {
+      "level": "VERDE",
+      "text": "SI SABES TOCAR LA GUITARRA",
+      "drinks": 1,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE TENGAN CARNET DE CONDUCIR",
+      "drinks": 1,
+      "category": "documentos"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE HAYAN IDO AL CINE ESTE MES",
+      "drinks": 1,
+      "category": "entretenimiento"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI HAS HECHO DEPORTE PROFESIONAL ALGUNA VEZ",
+      "drinks": 1,
+      "category": "deportes"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE SEPAN COCINAR TORTILLA ESPAÑOLA",
+      "drinks": 1,
+      "category": "cocina"
+    },
+    {
+      "level": "VERDE",
+      "text": "LOS QUE TENGAN MENOS DE 20 AÑOS",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "VERDE",
+      "text": "SI HAS CAMBIADO DE TRABAJO ESTE AÑO",
+      "drinks": 1,
+      "category": "trabajo"
+    },
+    {
+      "level": "VERDE",
+      "text": "TODOS LOS QUE SEPAN PATINAR",
+      "drinks": 1,
+      "category": "general"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBEN LOS QUE HAYAN ESTADO EN UN CONCIERTO ESTE AÑO",
+      "drinks": 0,
+      "category": "juego"
+    },
+    {
+      "level": "VERDE",
+      "text": "EL MEJOR DE 3 EN PIEDRA, PAPEL O TIJERAS HACE QUE EL OTRO BEBA",
+      "drinks": 2,
+      "category": "desafio"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI ERES PISADO/PISADA",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "VERDE",
+      "text": "LA PERSONA QUE DEMORA EN CONTESTAR LOS MENSAJES DE TEXTO",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI PREFIERES EL VINO AL CERVEZA",
+      "drinks": 1,
+      "category": "bebidas"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI HAS ENVIADO UN MENSAJE HOY ANTES DE LAS 8 AM",
+      "drinks": 1,
+      "category": "confesion"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI PREFIERES EL VINO AL CERVEZA",
+      "drinks": 1,
+      "category": "bebidas"
+    },
+    {
+      "level": "VERDE",
+      "text": "BEBE SI HAS ENVIADO UN MENSAJE HOY ANTES DE LAS 8 AM",
+      "drinks": 1,
+      "category": "confesion"
+    },
+    {
+      "level": "CELESTE",
+      "text": "REVERSA: EL SENTIDO DEL JUEGO CAMBIA",
+      "drinks": 0,
+      "category": "especial",
+      "effect": "reverse"
+    },
+    {
+      "level": "CELESTE",
+      "text": "¡MULTIPLICADOR! EL SIGUIENTE JUGADOR BEBE EL DOBLE DE TRAGOS",
+      "drinks": 1,
+      "category": "especial",
+      "effect": "wild"
+    },
+    {
+      "level": "CELESTE",
+      "text": "REPARTE 5 TRAGOS COMO QUIERAS ENTRE LOS JUGADORES",
+      "drinks": 5,
+      "category": "especial",
+      "effect": "distribute_drinks"
+    },
+    {
+      "level": "CELESTE",
+      "text": "SALTO DE TURNO: EL SIGUIENTE JUGADOR PIERDE SU TURNO, PERO ENTRE QUIEN TÚ QUIERAS",
+      "drinks": 0,
+      "category": "especial",
+      "effect": "skip"
+    },
+    {
+      "level": "CELESTE",
+      "text": "INTERCAMBIO: ELIGE DOS JUGADORES PARA QUE CAMBIEN DE LUGAR",
+      "drinks": 0,
+      "category": "especial",
+      "effect": "swap_players"
+    },
+    {
+      "level": "CELESTE",
+      "text": "TODOS LOS JUGADORES BEBEN 2 TRAGOS",
+      "drinks": 2,
+      "category": "especial",
+      "effect": "all_drink"
+    },
+    {
+      "level": "ROJA",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 3,
+      "category": "confesion"
+    },
+    {
+      "level": "VERDE",
+      "text": "EDADES IMPARES",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "VERDE",
+      "text": "EDADES PARES",
+      "drinks": 1,
+      "category": "personal"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "TOMAS LA CANTIDAD DE VOCALES QUE TENGAS EN TU NOMBRE",
+      "drinks": 1,
+      "category": "matematica"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "MENCIÓN: EL JUGADOR QUE MÁS TE GUSTE DEL GRUPO",
+      "drinks": 2,
+      "category": "habilidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "VERDAD: RESPONDE UNA PREGUNTA ÍNTIMA",
+      "drinks": 2,
+      "category": "social"
+    },
+    {
+      "level": "ROJA",
+      "text": "LA PERSONA QUE COMPRÓ O USÓ UN TEST DE EMBARAZO O TUVO UN SUSTO",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "DEBES ESCRIBIR UN MENSAJE COQUETÓN A ALGUIEN DEL GRUPO",
+      "drinks": 0,
+      "category": "social"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "ESCOGE UNA PERSONA PARA DECIR UN NÚMERO DEL 1 AL 5 AL MISMO TIEMPO; SI NO COINCIDEN, BEBE UN TRAGO",
+      "drinks": 0,
+      "category": "juego"
+    },
+    {
+      "level": "ROJA",
+      "text": "BEBES POR CADA PERSONA QUE HAYAS BESADO ESTE AÑO",
+      "drinks": 0,
+      "category": "intimidad"
+    },
+    {
+      "level": "PICANTE",
+      "text": "BEBES POR CADA PERSONA CON LA QUE TE HAYAS ACOSTADO ESTE AÑO",
+      "drinks": 0,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "BEBE LA ÚLTIMA PERSONA EN HABER MANDADO NUDES",
+      "drinks": 0,
+      "category": "confesion"
+    },
+    {
+      "level": "ROJA",
+      "text": "DALE UN BESO A ALGUIEN QUE TE ATRAIGA EN EL GRUPO (ELIGE TÚ)",
+      "drinks": 0,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "GIRA LA BOTELLA Y BESA A QUIEN TE TOQUE",
+      "drinks": 0,
+      "category": "juego"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CIERREN LOS OJOS Y A LA CUENTA DE 3 ABRAN; SI DOS PERSONAS SE MIRAN, BEBEN UN TRAGO",
+      "drinks": 1,
+      "category": "juego"
+    },
+    {
+      "level": "ROJA",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "ROJA",
+      "text": "ENVÍA UN MENSAJE COQUETÓN A ALGUIEN EN EL GRUPO DESDE TU CELULAR",
+      "drinks": 0,
+      "category": "social"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "3 VERDADES Y 1 MENTIRA. SI ADIVINAN LA MENTIRA, BEBES 2 TRAGOS",
+      "drinks": 2,
+      "category": "adivinanza"
+    },
+    {
+      "level": "ROJA",
+      "text": "BEBES SI TE ENAMORASTE DE TU MEJOR AMIG@",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "ROJA",
+      "text": "BEBES POR CADA VEZ QUE HAYAS PUESTO O TE HAYAN PUESTO LOS CUERNOS",
+      "drinks": 1,
+      "category": "confesion"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "BEBES SI FUISTE \"MIGAJERO\"",
+      "drinks": 2,
+      "category": "historia_personal"
+    },
+    {
+      "level": "ROJA",
+      "text": "ESCOGE 2 JUGADORES PARA QUE SE DEN UN BREVE BESO O AMBOS BEBEN 2 TRAGOS",
+      "drinks": 0,
+      "category": "intimidad"
+    },
+    {
+      "level": "ROJA",
+      "text": "LA PERSONA DE TU DERECHA DEBE DARTE SU CELULAR PARA QUE LE ESCRIBAS A QUIEN QUIERAS",
+      "drinks": 2,
+      "category": "social"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "YO NUNCA NUNCA: 5 RONDAS",
+      "drinks": 0,
+      "category": "yo_nunca"
+    },
+    {
+      "level": "VERDE",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "ROJA",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "ROJA",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CAMBIAR",
+      "drinks": 3,
+      "category": "atrevimiento"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "AMARILLA",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "ROJO",
+      "text": "LA PERSONA QUE MÁS VECES HA CAMBIADO DE PAREJA EN EL GRUPO",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "VERDE",
+      "text": "LA PERSONA QUE DEMORA EN CONTESTAR LOS MENSAJES DE TEXTO",
+      "drinks": 2,
+      "category": "confesion"
+    },
+    {
+      "level": "VERDE",
+      "text": "ESCOGE: CONFIESA ALGO ÍNTIMO",
+      "drinks": 1,
+      "category": "bebidas"
+    },
+    {
+      "level": "VERDE",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 1,
+      "category": "confesion"
+    },
+    {
+      "level": "VERDE",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 1,
+      "category": "confesion"
+    },
+    {
+      "level": "VERDE",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 1,
+      "category": "bebidas"
+    },
+    {
+      "level": "VERDE",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 1,
+      "category": "confesion"
+    },
+    {
+      "level": "VERDE",
+      "text": "CONFESIÓN: CUENTA ALGO QUE NUNCA LE HAYAS DICHO A NADIE",
+      "drinks": 1,
+      "category": "confesion"
+    }
+  ],
+  "metadata": {
+    "version": "2.2",
+    "total_cards": 161,
+    "levels": {
+      "PICANTE": 16,
+      "ROJA": 28,
+      "AMARILLA": 50,
+      "VERDE": 63,
+      "CELESTE": 4
+    },
+    "description": "Efectos y categorías normalizados, metadata actualizada",
+    "categories": [
+      "actividad",
+      "apariencia",
+      "atrevido",
+      "atrevimiento",
+      "bebidas",
+      "clasica",
+      "cocina",
+      "comida",
+      "compras",
+      "comunicacion",
+      "creatividad",
+      "deportes",
+      "desafio",
+      "documentos",
+      "educacion",
+      "eleccion",
+      "emociones",
+      "entretenimiento",
+      "especial",
+      "estaciones",
+      "experiencia",
+      "fecha",
+      "general",
+      "habitos",
+      "idiomas",
+      "imitacion",
+      "intimidad",
+      "juego",
+      "mascota",
+      "matematicas",
+      "personal",
+      "preferencias",
+      "preguntas",
+      "puntualidad",
+      "rapidez_mental",
+      "redes_sociales",
+      "regla_continua",
+      "repartir",
+      "secreto",
+      "social",
+      "tecnologia",
+      "trabajo",
+      "transporte",
+      "viajes"
+    ]
+  }
+}
